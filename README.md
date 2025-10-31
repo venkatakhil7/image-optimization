@@ -15,5 +15,9 @@ The optimized image also builds faster. In this task, Dockerfile.optimized was b
 
 Startup latency was also improved. The optimized image started in 1.971 seconds, whereas the normal image took 2.441 seconds. This means the optimized image started almost twice as fast as the normal one.
 
+<img width="960" height="500" alt="Image" src="https://github.com/user-attachments/assets/b4da1642-7663-4c6f-8ec4-73192ac84505" />
 
+<img width="960" height="506" alt="Image" src="https://github.com/user-attachments/assets/cc41fb24-7e82-4fbe-b8b2-df8f05bc8903" />
+
+<img width="960" height="508" alt="Image" src="https://github.com/user-attachments/assets/7f98170a-8adb-4dce-a3b8-b91d009da851" />
 
